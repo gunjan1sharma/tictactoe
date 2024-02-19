@@ -6,7 +6,7 @@
 
 import readline from "readline";
 
-let seconds = 15 * 60;
+let seconds = 5 * 60;
 let startTime: number = 0;
 let totalMovesX: number = 0;
 let totalMovesO: number = 0;
