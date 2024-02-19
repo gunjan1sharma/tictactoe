@@ -1,3 +1,9 @@
+/**
+ * @author Gunjan Sharma
+ * @description This File conatins core logic of TIC Tac TOE Game and 3 Layers of Advance logic like Analytics/Timer/Name Input/Board Printing
+ */
+
+
 import readline from "readline";
 
 let seconds = 15 * 60;
@@ -240,4 +246,3 @@ export function printGameStatistics() {
 
 // Start the game
 startGame();
-
